@@ -20,7 +20,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 - **Category Count**: Identify all unique product categories in the dataset.
 - **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
 
-### 3. Data Analysis & Findings
+### 2. Data Analysis & Findings
 
 The following SQL queries were developed to answer specific business questions:
 
